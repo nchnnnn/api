@@ -1,0 +1,76 @@
+{
+    "inchan":[
+        {   
+            "num": "20",
+            "fname": "Christian",
+            "lname": "Leocario",
+            "gender": "Male"
+            
+        },
+        {
+            "2023": {
+                "January": "10",
+                "February": "12",
+                "March": "15",
+                "April": "17",
+                "May": "20",
+                "June": "20",
+                "July": "10",
+                "August": "10",
+                "September": "10",
+                "October": "10",
+                "November": "10",
+                "December": "10"
+            }
+        
+        }
+    ],
+    "shai": [
+        {
+            "num": "20",
+            "fname": "Shaina",
+            "lname": "Lucena",
+            "gender": "Female"  
+        }
+    ],
+    "thea": [
+        {
+            "num": "20",
+            "fname": "Althea Nicole",
+            "lname": "Santin",
+            "gender": "Female"  
+        }
+    ],
+    "drei":[
+        {
+            "num": "13",
+            "fname": "Andrei",
+            "lname": "Golloso",
+            "gender": "Male"
+        }
+    ],
+    "bots": [
+        {
+            "num": "16",
+            "fname": "Kerby",
+            "lname": "Bote",
+            "gender": "Male"  
+        }
+    ],
+    "carl": [
+        {
+            "num": "12",
+            "fname": "Carl Adrian",
+            "lname": "Martinez",
+            "gender": "Male"  
+        }
+    ],
+    "adrian": [
+        {
+            "num": "10",
+            "fname": "Adrian",
+            "lname": "Francisco",
+            "gender": "Male"  
+        }
+    ]
+}
